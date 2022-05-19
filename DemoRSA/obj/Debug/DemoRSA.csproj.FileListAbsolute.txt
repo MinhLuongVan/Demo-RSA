@@ -1,0 +1,10 @@
+D:\BTTH.Net\DemoRSA\DemoRSA\bin\Debug\DemoRSA.exe.config
+D:\BTTH.Net\DemoRSA\DemoRSA\bin\Debug\DemoRSA.exe
+D:\BTTH.Net\DemoRSA\DemoRSA\bin\Debug\DemoRSA.pdb
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.csproj.AssemblyReference.cache
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.Form1.resources
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.Properties.Resources.resources
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.csproj.GenerateResource.cache
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.csproj.CoreCompileInputs.cache
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.exe
+D:\BTTH.Net\DemoRSA\DemoRSA\obj\Debug\DemoRSA.pdb
